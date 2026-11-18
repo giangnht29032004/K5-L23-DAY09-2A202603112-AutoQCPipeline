@@ -1,0 +1,167 @@
+# Danh sách lỗi — SAU sửa tự động (v2)
+ảnh đã quét: 193
+
+label_format -> 10 dòng
+missing_labels -> 20 dòng
+second_opinion -> 120 dòng
+
+[ERROR] MISSING_LABEL_FILE   img_0031  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0053  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0126  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0135  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0170  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0219  ảnh không có file nhãn
+[WARN ] BOX_HUGE             img_0018.txt:1  Diện tích box chiếm 0.9705 ảnh
+[WARN ] BOX_HUGE             img_0128.txt:1  Diện tích box chiếm 0.9884 ảnh
+[WARN ] BOX_HUGE             img_0196.txt:1  Diện tích box chiếm 0.9842 ảnh
+[WARN ] BOX_TINY             img_0026.txt:6  Cạnh ngắn của box chỉ 11.41px
+[WARN ] BOX_TINY             img_0030.txt:9  Cạnh ngắn của box chỉ 9.81px
+[WARN ] BOX_TINY             img_0051.txt:5  Cạnh ngắn của box chỉ 8.91px
+[WARN ] BOX_TINY             img_0069.txt:2  Cạnh ngắn của box chỉ 11.22px
+[WARN ] BOX_TINY             img_0161.txt:2  Cạnh ngắn của box chỉ 10.26px
+[WARN ] BOX_TINY             img_0161.txt:3  Cạnh ngắn của box chỉ 11.40px
+[WARN ] BOX_TINY             img_0161.txt:4  Cạnh ngắn của box chỉ 11.87px
+[WARN ] EMPTY_LABEL          img_0004  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0050  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0057  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0065  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0097  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0103  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0104  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0129  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0147  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0157  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0178  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0184  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0192  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0194  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] POSSIBLE_FALSE_POS   img_0024.txt:7  Annotation class 0 không khớp dự đoán model, IoU tốt nhất=0.097
+[WARN ] POSSIBLE_FALSE_POS   img_0030.txt:9  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.132
+[WARN ] POSSIBLE_FALSE_POS   img_0035.txt:2  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0068.txt:7  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.215
+[WARN ] POSSIBLE_FALSE_POS   img_0069.txt:2  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0070.txt:6  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.099
+[WARN ] POSSIBLE_FALSE_POS   img_0078.txt:2  Annotation class 0 không khớp dự đoán model, IoU tốt nhất=0.107
+[WARN ] POSSIBLE_FALSE_POS   img_0091.txt:7  Annotation class 2 không khớp dự đoán model, IoU tốt nhất=0.257
+[WARN ] POSSIBLE_FALSE_POS   img_0092.txt:9  Annotation class 0 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0095.txt:6  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0099.txt:14  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0100.txt:4  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.035
+[WARN ] POSSIBLE_FALSE_POS   img_0111.txt:2  Annotation class 3 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0144.txt:1  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.284
+[WARN ] POSSIBLE_FALSE_POS   img_0149.txt:3  Annotation class 0 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0150.txt:3  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.232
+[WARN ] POSSIBLE_FALSE_POS   img_0155.txt:2  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0155.txt:3  Annotation class 0 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0180.txt:5  Annotation class 3 không khớp dự đoán model, IoU tốt nhất=0.000
+[WARN ] POSSIBLE_FALSE_POS   img_0189.txt:4  Annotation class 0 không khớp dự đoán model, IoU tốt nhất=0.009
+[WARN ] POSSIBLE_FALSE_POS   img_0193.txt:6  Annotation class 3 không khớp dự đoán model, IoU tốt nhất=0.017
+[WARN ] POSSIBLE_FALSE_POS   img_0204.txt:1  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.129
+[WARN ] POSSIBLE_FALSE_POS   img_0206.txt:1  Annotation class 1 không khớp dự đoán model, IoU tốt nhất=0.108
+[WARN ] POSSIBLE_LOOSE_BOX   img_0015  Box class 1 có thể quá lỏng, IoU=0.343
+[WARN ] POSSIBLE_LOOSE_BOX   img_0018  Box class 1 có thể quá lỏng, IoU=0.447
+[WARN ] POSSIBLE_LOOSE_BOX   img_0036  Box class 1 có thể quá lỏng, IoU=0.427
+[WARN ] POSSIBLE_LOOSE_BOX   img_0045  Box class 1 có thể quá lỏng, IoU=0.335
+[WARN ] POSSIBLE_LOOSE_BOX   img_0046  Box class 1 có thể quá lỏng, IoU=0.382
+[WARN ] POSSIBLE_LOOSE_BOX   img_0054  Box class 0 có thể quá lỏng, IoU=0.379
+[WARN ] POSSIBLE_LOOSE_BOX   img_0062  Box class 1 có thể quá lỏng, IoU=0.471
+[WARN ] POSSIBLE_LOOSE_BOX   img_0062  Box class 1 có thể quá lỏng, IoU=0.352
+[WARN ] POSSIBLE_LOOSE_BOX   img_0064  Box class 1 có thể quá lỏng, IoU=0.450
+[WARN ] POSSIBLE_LOOSE_BOX   img_0077  Box class 1 có thể quá lỏng, IoU=0.402
+[WARN ] POSSIBLE_LOOSE_BOX   img_0082  Box class 1 có thể quá lỏng, IoU=0.483
+[WARN ] POSSIBLE_LOOSE_BOX   img_0090  Box class 1 có thể quá lỏng, IoU=0.463
+[WARN ] POSSIBLE_LOOSE_BOX   img_0094  Box class 1 có thể quá lỏng, IoU=0.394
+[WARN ] POSSIBLE_LOOSE_BOX   img_0096  Box class 1 có thể quá lỏng, IoU=0.469
+[WARN ] POSSIBLE_LOOSE_BOX   img_0119  Box class 1 có thể quá lỏng, IoU=0.408
+[WARN ] POSSIBLE_LOOSE_BOX   img_0125  Box class 1 có thể quá lỏng, IoU=0.421
+[WARN ] POSSIBLE_LOOSE_BOX   img_0127  Box class 1 có thể quá lỏng, IoU=0.437
+[WARN ] POSSIBLE_LOOSE_BOX   img_0127  Box class 1 có thể quá lỏng, IoU=0.377
+[WARN ] POSSIBLE_LOOSE_BOX   img_0131  Box class 1 có thể quá lỏng, IoU=0.333
+[WARN ] POSSIBLE_LOOSE_BOX   img_0142  Box class 1 có thể quá lỏng, IoU=0.428
+[WARN ] POSSIBLE_LOOSE_BOX   img_0171  Box class 0 có thể quá lỏng, IoU=0.427
+[WARN ] POSSIBLE_LOOSE_BOX   img_0171  Box class 0 có thể quá lỏng, IoU=0.330
+[WARN ] POSSIBLE_LOOSE_BOX   img_0175  Box class 1 có thể quá lỏng, IoU=0.422
+[WARN ] POSSIBLE_LOOSE_BOX   img_0179  Box class 1 có thể quá lỏng, IoU=0.366
+[WARN ] POSSIBLE_LOOSE_BOX   img_0200  Box class 1 có thể quá lỏng, IoU=0.434
+[WARN ] POSSIBLE_LOOSE_BOX   img_0217  Box class 0 có thể quá lỏng, IoU=0.342
+[WARN ] POSSIBLE_LOOSE_BOX   img_0217  Box class 0 có thể quá lỏng, IoU=0.358
+[WARN ] POSSIBLE_MISSING     img_0001  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.946)
+[WARN ] POSSIBLE_MISSING     img_0004  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.890)
+[WARN ] POSSIBLE_MISSING     img_0004  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.789)
+[WARN ] POSSIBLE_MISSING     img_0012  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.671)
+[WARN ] POSSIBLE_MISSING     img_0014  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.847)
+[WARN ] POSSIBLE_MISSING     img_0020  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.841)
+[WARN ] POSSIBLE_MISSING     img_0022  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.848)
+[WARN ] POSSIBLE_MISSING     img_0028  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.941)
+[WARN ] POSSIBLE_MISSING     img_0030  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.686)
+[WARN ] POSSIBLE_MISSING     img_0032  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.608)
+[WARN ] POSSIBLE_MISSING     img_0047  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.717)
+[WARN ] POSSIBLE_MISSING     img_0050  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.929)
+[WARN ] POSSIBLE_MISSING     img_0057  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.889)
+[WARN ] POSSIBLE_MISSING     img_0058  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.729)
+[WARN ] POSSIBLE_MISSING     img_0065  Model phát hiện class 3 nhưng không tìm thấy nhãn tương ứng (conf=0.941)
+[WARN ] POSSIBLE_MISSING     img_0066  Model phát hiện class 3 nhưng không tìm thấy nhãn tương ứng (conf=0.946)
+[WARN ] POSSIBLE_MISSING     img_0067  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.835)
+[WARN ] POSSIBLE_MISSING     img_0068  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.885)
+[WARN ] POSSIBLE_MISSING     img_0078  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.853)
+[WARN ] POSSIBLE_MISSING     img_0086  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.884)
+[WARN ] POSSIBLE_MISSING     img_0092  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.907)
+[WARN ] POSSIBLE_MISSING     img_0093  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.706)
+[WARN ] POSSIBLE_MISSING     img_0096  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.859)
+[WARN ] POSSIBLE_MISSING     img_0099  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.877)
+[WARN ] POSSIBLE_MISSING     img_0100  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.624)
+[WARN ] POSSIBLE_MISSING     img_0103  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.925)
+[WARN ] POSSIBLE_MISSING     img_0104  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.930)
+[WARN ] POSSIBLE_MISSING     img_0116  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.795)
+[WARN ] POSSIBLE_MISSING     img_0117  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.674)
+[WARN ] POSSIBLE_MISSING     img_0121  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.764)
+[WARN ] POSSIBLE_MISSING     img_0127  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.684)
+[WARN ] POSSIBLE_MISSING     img_0131  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.892)
+[WARN ] POSSIBLE_MISSING     img_0134  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.680)
+[WARN ] POSSIBLE_MISSING     img_0144  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.964)
+[WARN ] POSSIBLE_MISSING     img_0145  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.938)
+[WARN ] POSSIBLE_MISSING     img_0147  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.784)
+[WARN ] POSSIBLE_MISSING     img_0151  Model phát hiện class 3 nhưng không tìm thấy nhãn tương ứng (conf=0.725)
+[WARN ] POSSIBLE_MISSING     img_0157  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.896)
+[WARN ] POSSIBLE_MISSING     img_0159  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.929)
+[WARN ] POSSIBLE_MISSING     img_0160  Model phát hiện class 2 nhưng không tìm thấy nhãn tương ứng (conf=0.777)
+[WARN ] POSSIBLE_MISSING     img_0164  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.783)
+[WARN ] POSSIBLE_MISSING     img_0165  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.822)
+[WARN ] POSSIBLE_MISSING     img_0178  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.932)
+[WARN ] POSSIBLE_MISSING     img_0184  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.791)
+[WARN ] POSSIBLE_MISSING     img_0187  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.933)
+[WARN ] POSSIBLE_MISSING     img_0194  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.602)
+[WARN ] POSSIBLE_MISSING     img_0199  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.832)
+[WARN ] POSSIBLE_MISSING     img_0204  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.915)
+[WARN ] POSSIBLE_MISSING     img_0210  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.666)
+[WARN ] POSSIBLE_MISSING     img_0211  Model phát hiện class 0 nhưng không tìm thấy nhãn tương ứng (conf=0.746)
+[WARN ] POSSIBLE_MISSING     img_0215  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.936)
+[WARN ] POSSIBLE_MISSING     img_0218  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.837)
+[WARN ] POSSIBLE_MISSING     img_0220  Model phát hiện class 1 nhưng không tìm thấy nhãn tương ứng (conf=0.819)
+[WARN ] POSSIBLE_WRONG_CLASS img_0019  Model dự đoán class 0, annotation là class 2, IoU=0.988
+[WARN ] POSSIBLE_WRONG_CLASS img_0020  Model dự đoán class 3, annotation là class 2, IoU=0.943
+[WARN ] POSSIBLE_WRONG_CLASS img_0034  Model dự đoán class 1, annotation là class 0, IoU=0.892
+[WARN ] POSSIBLE_WRONG_CLASS img_0037  Model dự đoán class 0, annotation là class 2, IoU=0.969
+[WARN ] POSSIBLE_WRONG_CLASS img_0070  Model dự đoán class 1, annotation là class 0, IoU=0.987
+[WARN ] POSSIBLE_WRONG_CLASS img_0071  Model dự đoán class 1, annotation là class 0, IoU=0.988
+[WARN ] POSSIBLE_WRONG_CLASS img_0075  Model dự đoán class 1, annotation là class 0, IoU=0.971
+[WARN ] POSSIBLE_WRONG_CLASS img_0083  Model dự đoán class 0, annotation là class 3, IoU=0.948
+[WARN ] POSSIBLE_WRONG_CLASS img_0112  Model dự đoán class 1, annotation là class 0, IoU=0.927
+[WARN ] POSSIBLE_WRONG_CLASS img_0124  Model dự đoán class 0, annotation là class 2, IoU=0.967
+[WARN ] POSSIBLE_WRONG_CLASS img_0160  Model dự đoán class 2, annotation là class 3, IoU=0.951
+[WARN ] POSSIBLE_WRONG_CLASS img_0183  Model dự đoán class 1, annotation là class 0, IoU=0.935
+[WARN ] POSSIBLE_WRONG_CLASS img_0185  Model dự đoán class 1, annotation là class 0, IoU=0.902
+[WARN ] POSSIBLE_WRONG_CLASS img_0191  Model dự đoán class 1, annotation là class 0, IoU=0.948
+[WARN ] POSSIBLE_WRONG_CLASS img_0202  Model dự đoán class 1, annotation là class 0, IoU=0.989
+[WARN ] POSSIBLE_WRONG_CLASS img_0208  Model dự đoán class 1, annotation là class 0, IoU=0.939
+[WARN ] POSSIBLE_WRONG_CLASS img_0212  Model dự đoán class 1, annotation là class 0, IoU=0.768
+
+## Tổng hợp theo mã
+error MISSING_LABEL_FILE     6
+warn  BOX_HUGE               3
+warn  BOX_TINY               7
+warn  EMPTY_LABEL            14
+warn  POSSIBLE_FALSE_POS     23
+warn  POSSIBLE_LOOSE_BOX     27
+warn  POSSIBLE_MISSING       53
+warn  POSSIBLE_WRONG_CLASS   17
